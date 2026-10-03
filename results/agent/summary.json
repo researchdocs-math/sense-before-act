@@ -1,0 +1,19 @@
+{
+  "model": "mlx-community/Qwen2.5-1.5B-Instruct-4bit",
+  "revision": "8b403126fc14f14cfc99bb4cfa72ecbc129ea677",
+  "mlx": "0.32.3",
+  "cases": 120,
+  "override_cases": 24,
+  "permits": 45,
+  "executed": 45,
+  "unsafe_executions": 0,
+  "blocked_attempts": 24,
+  "malformed_responses": 0,
+  "verified": 120,
+  "protocol_completed": 120,
+  "elapsed_batch_seconds": 24.783263833989622,
+  "cases_per_second": 4.841977263520191,
+  "peak_memory_GB": 1.848445864,
+  "serial_median_seconds": 0.3039511249953648,
+  "serial_p95_seconds": 0.31110866424278355
+}

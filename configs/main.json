@@ -1,0 +1,21 @@
+{
+  "datasets": ["synthetic", "office", "room"],
+  "methods": ["source_dp", "independent_dp", "source_mi", "myopic", "static", "random", "budget_full"],
+  "thresholds": [0.0001, 0.0002, 0.0005, 0.001, 0.002, 0.003, 0.005, 0.0075, 0.01, 0.0125, 0.015, 0.02, 0.03, 0.04, 0.06, 0.08, 0.1, 0.12, 0.16, 0.2],
+  "alphas": [0.01, 0.05],
+  "delta": 0.05,
+  "fault_probability": 0.08,
+  "episode_length": 10,
+  "calibration_episodes": 10000,
+  "test_episodes": 20000,
+  "calibration_seed": 410001,
+  "test_seed": 810001,
+  "cost_price": 0.015,
+  "budgets": [4, 6, 8],
+  "stress_faults": [0.0, 0.04, 0.08, 0.16, 0.24],
+  "stress_episodes": 10000,
+  "stress_seed": 1210001,
+  "partition_seed": 20271003,
+  "block_length": 100,
+  "gap_length": 20
+}

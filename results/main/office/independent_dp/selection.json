@@ -1,0 +1,310 @@
+{
+  "selected": {
+    "0.01": 5,
+    "0.05": 12
+  },
+  "candidates": [
+    {
+      "tau": 0.0001,
+      "calibration": {
+        "risk": 0.0,
+        "completion": 0.0,
+        "allow": 0.0,
+        "calls": 0.0,
+        "cost": 0.0,
+        "source_count": 0.0,
+        "opportunities": 0.75266,
+        "utility": 0.0
+      },
+      "events": 0,
+      "upper": 0.0009031905761147641
+    },
+    {
+      "tau": 0.0002,
+      "calibration": {
+        "risk": 0.0,
+        "completion": 0.0,
+        "allow": 0.0,
+        "calls": 0.0,
+        "cost": 0.0,
+        "source_count": 0.0,
+        "opportunities": 0.75266,
+        "utility": 0.0
+      },
+      "events": 0,
+      "upper": 0.0009031905761147641
+    },
+    {
+      "tau": 0.0005,
+      "calibration": {
+        "risk": 0.0,
+        "completion": 0.0,
+        "allow": 0.0,
+        "calls": 0.0,
+        "cost": 0.0,
+        "source_count": 0.0,
+        "opportunities": 0.75266,
+        "utility": 0.0
+      },
+      "events": 0,
+      "upper": 0.0009031905761147641
+    },
+    {
+      "tau": 0.001,
+      "calibration": {
+        "risk": 0.0005,
+        "completion": 0.027840000000000004,
+        "allow": 0.02798,
+        "calls": 0.5504899999999999,
+        "cost": 0.6607500000000001,
+        "source_count": 0.40342999999999996,
+        "opportunities": 0.75266,
+        "utility": 0.01792875
+      },
+      "events": 5,
+      "upper": 0.0019323384393635217
+    },
+    {
+      "tau": 0.002,
+      "calibration": {
+        "risk": 0.0021,
+        "completion": 0.12783999999999998,
+        "allow": 0.12832000000000002,
+        "calls": 0.9977799999999999,
+        "cost": 1.45241,
+        "source_count": 0.62674,
+        "opportunities": 0.75266,
+        "utility": 0.10605385
+      },
+      "events": 21,
+      "upper": 0.004346536737629255
+    },
+    {
+      "tau": 0.003,
+      "calibration": {
+        "risk": 0.0045,
+        "completion": 0.31174999999999997,
+        "allow": 0.31296,
+        "calls": 1.6614900000000001,
+        "cost": 2.76914,
+        "source_count": 1.3811100000000003,
+        "opportunities": 0.75266,
+        "utility": 0.27021290000000003
+      },
+      "events": 45,
+      "upper": 0.007506018477089245
+    },
+    {
+      "tau": 0.005,
+      "calibration": {
+        "risk": 0.0073,
+        "completion": 0.45435,
+        "allow": 0.45718000000000003,
+        "calls": 2.1929100000000004,
+        "cost": 3.2924300000000004,
+        "source_count": 1.8067799999999998,
+        "opportunities": 0.75266,
+        "utility": 0.40496355
+      },
+      "events": 73,
+      "upper": 0.010964408766907753
+    },
+    {
+      "tau": 0.0075,
+      "calibration": {
+        "risk": 0.0082,
+        "completion": 0.46633,
+        "allow": 0.46993,
+        "calls": 2.4534000000000002,
+        "cost": 3.6238,
+        "source_count": 1.8516399999999997,
+        "opportunities": 0.75266,
+        "utility": 0.411973
+      },
+      "events": 82,
+      "upper": 0.012047665514329453
+    },
+    {
+      "tau": 0.01,
+      "calibration": {
+        "risk": 0.0082,
+        "completion": 0.46633,
+        "allow": 0.46993,
+        "calls": 2.4534000000000002,
+        "cost": 3.6238,
+        "source_count": 1.8516399999999997,
+        "opportunities": 0.75266,
+        "utility": 0.411973
+      },
+      "events": 82,
+      "upper": 0.012047665514329453
+    },
+    {
+      "tau": 0.0125,
+      "calibration": {
+        "risk": 0.0094,
+        "completion": 0.61846,
+        "allow": 0.62239,
+        "calls": 1.8215299999999999,
+        "cost": 2.5085800000000003,
+        "source_count": 1.67763,
+        "opportunities": 0.75266,
+        "utility": 0.5808313
+      },
+      "events": 94,
+      "upper": 0.013476782559944691
+    },
+    {
+      "tau": 0.015,
+      "calibration": {
+        "risk": 0.0094,
+        "completion": 0.61846,
+        "allow": 0.62239,
+        "calls": 1.8215299999999999,
+        "cost": 2.5085800000000003,
+        "source_count": 1.67763,
+        "opportunities": 0.75266,
+        "utility": 0.5808313
+      },
+      "events": 94,
+      "upper": 0.013476782559944691
+    },
+    {
+      "tau": 0.02,
+      "calibration": {
+        "risk": 0.0176,
+        "completion": 0.6550399999999998,
+        "allow": 0.66466,
+        "calls": 2.09579,
+        "cost": 3.09579,
+        "source_count": 1.76475,
+        "opportunities": 0.75266,
+        "utility": 0.60860315
+      },
+      "events": 176,
+      "upper": 0.022947874213743617
+    },
+    {
+      "tau": 0.03,
+      "calibration": {
+        "risk": 0.0348,
+        "completion": 0.74332,
+        "allow": 0.7647499999999999,
+        "calls": 1.0,
+        "cost": 2.0,
+        "source_count": 1.0,
+        "opportunities": 0.75266,
+        "utility": 0.7133200000000001
+      },
+      "events": 348,
+      "upper": 0.04202835434069265
+    },
+    {
+      "tau": 0.04,
+      "calibration": {
+        "risk": 0.0348,
+        "completion": 0.74332,
+        "allow": 0.7647499999999999,
+        "calls": 1.0,
+        "cost": 2.0,
+        "source_count": 1.0,
+        "opportunities": 0.75266,
+        "utility": 0.7133200000000001
+      },
+      "events": 348,
+      "upper": 0.04202835434069265
+    },
+    {
+      "tau": 0.06,
+      "calibration": {
+        "risk": 0.0348,
+        "completion": 0.74332,
+        "allow": 0.7647499999999999,
+        "calls": 1.0,
+        "cost": 2.0,
+        "source_count": 1.0,
+        "opportunities": 0.75266,
+        "utility": 0.7133200000000001
+      },
+      "events": 348,
+      "upper": 0.04202835434069265
+    },
+    {
+      "tau": 0.08,
+      "calibration": {
+        "risk": 0.0348,
+        "completion": 0.74332,
+        "allow": 0.7647499999999999,
+        "calls": 1.0,
+        "cost": 2.0,
+        "source_count": 1.0,
+        "opportunities": 0.75266,
+        "utility": 0.7133200000000001
+      },
+      "events": 348,
+      "upper": 0.04202835434069265
+    },
+    {
+      "tau": 0.1,
+      "calibration": {
+        "risk": 0.0704,
+        "completion": 0.7214799999999999,
+        "allow": 0.7513800000000002,
+        "calls": 1.23718,
+        "cost": 2.0818800000000004,
+        "source_count": 1.14773,
+        "opportunities": 0.75266,
+        "utility": 0.6902518
+      },
+      "events": 704,
+      "upper": 0.0802557085691884
+    },
+    {
+      "tau": 0.12,
+      "calibration": {
+        "risk": 0.1384,
+        "completion": 0.72591,
+        "allow": 0.8213600000000001,
+        "calls": 1.5442399999999998,
+        "cost": 2.02995,
+        "source_count": 1.45479,
+        "opportunities": 0.75266,
+        "utility": 0.69546075
+      },
+      "events": 1384,
+      "upper": 0.15147665011585298
+    },
+    {
+      "tau": 0.16,
+      "calibration": {
+        "risk": 0.0734,
+        "completion": 0.7456,
+        "allow": 0.80306,
+        "calls": 1.3477399999999997,
+        "cost": 1.6954799999999999,
+        "source_count": 1.3477399999999997,
+        "opportunities": 0.75266,
+        "utility": 0.7201677999999999
+      },
+      "events": 734,
+      "upper": 0.08343532632040669
+    },
+    {
+      "tau": 0.2,
+      "calibration": {
+        "risk": 0.0734,
+        "completion": 0.7456,
+        "allow": 0.80306,
+        "calls": 1.3477399999999997,
+        "cost": 1.6954799999999999,
+        "source_count": 1.3477399999999997,
+        "opportunities": 0.75266,
+        "utility": 0.7201677999999999
+      },
+      "events": 734,
+      "upper": 0.08343532632040669
+    }
+  ],
+  "delta_per_candidate": 0.00011904761904761905,
+  "family_size": 420
+}

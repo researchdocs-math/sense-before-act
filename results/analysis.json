@@ -1,0 +1,1544 @@
+{
+  "main": [
+    {
+      "dataset": "synthetic",
+      "method": "portfolio",
+      "alpha": 0.01,
+      "tau": 0.002,
+      "upper": 0.0081361407812432,
+      "risk": 0.0048,
+      "completion": 0.368265,
+      "allow": 0.36882000000000004,
+      "calls": 1.487,
+      "cost": 2.688975,
+      "source_count": 1.487,
+      "opportunities": 0.6497599999999999,
+      "utility": 0.327930375
+    },
+    {
+      "dataset": "synthetic",
+      "method": "portfolio",
+      "alpha": 0.05,
+      "tau": 0.01,
+      "upper": 0.04671144570190667,
+      "risk": 0.03765,
+      "completion": 0.5743799999999999,
+      "allow": 0.579535,
+      "calls": 1.8851950000000002,
+      "cost": 3.7515050000000003,
+      "source_count": 1.652855,
+      "opportunities": 0.6497599999999999,
+      "utility": 0.518107425
+    },
+    {
+      "dataset": "synthetic",
+      "method": "source_dp",
+      "alpha": 0.01,
+      "tau": 0.002,
+      "upper": 0.0081361407812432,
+      "risk": 0.0048,
+      "completion": 0.368265,
+      "allow": 0.36882000000000004,
+      "calls": 1.487,
+      "cost": 2.688975,
+      "source_count": 1.487,
+      "opportunities": 0.6497599999999999,
+      "utility": 0.327930375
+    },
+    {
+      "dataset": "synthetic",
+      "method": "source_dp",
+      "alpha": 0.05,
+      "tau": 0.01,
+      "upper": 0.04671144570190667,
+      "risk": 0.03765,
+      "completion": 0.5743799999999999,
+      "allow": 0.579535,
+      "calls": 1.8851950000000002,
+      "cost": 3.7515050000000003,
+      "source_count": 1.652855,
+      "opportunities": 0.6497599999999999,
+      "utility": 0.518107425
+    },
+    {
+      "dataset": "synthetic",
+      "method": "independent_dp",
+      "alpha": 0.01,
+      "tau": 0.0005,
+      "upper": 0.003640335209097691,
+      "risk": 0.0012,
+      "completion": 0.17074,
+      "allow": 0.17088500000000004,
+      "calls": 0.91451,
+      "cost": 1.6712850000000001,
+      "source_count": 0.728695,
+      "opportunities": 0.6497599999999999,
+      "utility": 0.14567072500000003
+    },
+    {
+      "dataset": "synthetic",
+      "method": "independent_dp",
+      "alpha": 0.05,
+      "tau": 0.01,
+      "upper": 0.04170065583901187,
+      "risk": 0.0329,
+      "completion": 0.567245,
+      "allow": 0.5717949999999999,
+      "calls": 1.8429,
+      "cost": 3.5816,
+      "source_count": 1.62652,
+      "opportunities": 0.6497599999999999,
+      "utility": 0.513521
+    },
+    {
+      "dataset": "synthetic",
+      "method": "source_mi",
+      "alpha": 0.01,
+      "tau": 0.003,
+      "upper": 0.0081361407812432,
+      "risk": 0.0048,
+      "completion": 0.368265,
+      "allow": 0.36882000000000004,
+      "calls": 3.16088,
+      "cost": 5.16787,
+      "source_count": 2.44237,
+      "opportunities": 0.6497599999999999,
+      "utility": 0.29074695
+    },
+    {
+      "dataset": "synthetic",
+      "method": "source_mi",
+      "alpha": 0.05,
+      "tau": 0.01,
+      "upper": 0.022039929210018818,
+      "risk": 0.01665,
+      "completion": 0.5291100000000001,
+      "allow": 0.531175,
+      "calls": 3.16088,
+      "cost": 5.16787,
+      "source_count": 2.44237,
+      "opportunities": 0.6497599999999999,
+      "utility": 0.45159195
+    },
+    {
+      "dataset": "synthetic",
+      "method": "myopic",
+      "alpha": 0.01,
+      "tau": 0.003,
+      "upper": 0.0081361407812432,
+      "risk": 0.0048,
+      "completion": 0.368265,
+      "allow": 0.36882000000000004,
+      "calls": 3.16088,
+      "cost": 5.16787,
+      "source_count": 2.44237,
+      "opportunities": 0.6497599999999999,
+      "utility": 0.29074695
+    },
+    {
+      "dataset": "synthetic",
+      "method": "myopic",
+      "alpha": 0.05,
+      "tau": 0.01,
+      "upper": 0.038635377654235886,
+      "risk": 0.0318,
+      "completion": 0.50897,
+      "allow": 0.5139050000000001,
+      "calls": 3.21146,
+      "cost": 4.540824999999999,
+      "source_count": 2.08942,
+      "opportunities": 0.6497599999999999,
+      "utility": 0.44085762500000003
+    },
+    {
+      "dataset": "synthetic",
+      "method": "static",
+      "alpha": 0.01,
+      "tau": null,
+      "upper": 0.0,
+      "risk": 0.0,
+      "completion": 0.0,
+      "allow": 0.0,
+      "calls": 0.0,
+      "cost": 0.0,
+      "source_count": 0.0,
+      "opportunities": 0.6497599999999999,
+      "utility": 0.0
+    },
+    {
+      "dataset": "synthetic",
+      "method": "static",
+      "alpha": 0.05,
+      "tau": 0.0125,
+      "upper": 0.03698788928831799,
+      "risk": 0.0303,
+      "completion": 0.48225,
+      "allow": 0.48703,
+      "calls": 2.9317949999999997,
+      "cost": 4.10985,
+      "source_count": 2.0,
+      "opportunities": 0.6497599999999999,
+      "utility": 0.42060225
+    },
+    {
+      "dataset": "synthetic",
+      "method": "random",
+      "alpha": 0.01,
+      "tau": 0.002,
+      "upper": 0.003783784302011038,
+      "risk": 0.00175,
+      "completion": 0.152565,
+      "allow": 0.152765,
+      "calls": 3.26968,
+      "cost": 5.602930000000001,
+      "source_count": 2.666625,
+      "opportunities": 0.6497599999999999,
+      "utility": 0.06852105000000001
+    },
+    {
+      "dataset": "synthetic",
+      "method": "random",
+      "alpha": 0.05,
+      "tau": 0.015,
+      "upper": 0.033016585274251435,
+      "risk": 0.02685,
+      "completion": 0.519555,
+      "allow": 0.52273,
+      "calls": 3.077255,
+      "cost": 5.410505000000001,
+      "source_count": 2.666625,
+      "opportunities": 0.6497599999999999,
+      "utility": 0.438397425
+    },
+    {
+      "dataset": "synthetic",
+      "method": "budget_full",
+      "alpha": 0.01,
+      "tau": null,
+      "upper": 0.0,
+      "risk": 0.0,
+      "completion": 0.0,
+      "allow": 0.0,
+      "calls": 0.0,
+      "cost": 0.0,
+      "source_count": 0.0,
+      "opportunities": 0.6497599999999999,
+      "utility": 0.0
+    },
+    {
+      "dataset": "synthetic",
+      "method": "budget_full",
+      "alpha": 0.05,
+      "tau": 0.04,
+      "upper": 0.04290156864861463,
+      "risk": 0.0347,
+      "completion": 0.509335,
+      "allow": 0.51471,
+      "calls": 3.666625,
+      "cost": 5.33325,
+      "source_count": 2.0,
+      "opportunities": 0.6497599999999999,
+      "utility": 0.4293362499999999
+    },
+    {
+      "dataset": "office",
+      "method": "portfolio",
+      "alpha": 0.01,
+      "tau": 0.005,
+      "upper": 0.00763259584618403,
+      "risk": 0.0044,
+      "completion": 0.32695499999999994,
+      "allow": 0.32792,
+      "calls": 1.7811299999999999,
+      "cost": 2.862835,
+      "source_count": 1.3900899999999998,
+      "opportunities": 0.7501899999999999,
+      "utility": 0.284012475
+    },
+    {
+      "dataset": "office",
+      "method": "portfolio",
+      "alpha": 0.05,
+      "tau": 0.03,
+      "upper": 0.04202835434069265,
+      "risk": 0.03525,
+      "completion": 0.7404199999999999,
+      "allow": 0.76246,
+      "calls": 1.0,
+      "cost": 2.0,
+      "source_count": 1.0,
+      "opportunities": 0.7501899999999999,
+      "utility": 0.71042
+    },
+    {
+      "dataset": "office",
+      "method": "source_dp",
+      "alpha": 0.01,
+      "tau": 0.005,
+      "upper": 0.00763259584618403,
+      "risk": 0.0044,
+      "completion": 0.32695499999999994,
+      "allow": 0.32792,
+      "calls": 1.7811299999999999,
+      "cost": 2.862835,
+      "source_count": 1.3900899999999998,
+      "opportunities": 0.7501899999999999,
+      "utility": 0.284012475
+    },
+    {
+      "dataset": "office",
+      "method": "source_dp",
+      "alpha": 0.05,
+      "tau": 0.03,
+      "upper": 0.04202835434069265,
+      "risk": 0.03525,
+      "completion": 0.7404199999999999,
+      "allow": 0.76246,
+      "calls": 1.0,
+      "cost": 2.0,
+      "source_count": 1.0,
+      "opportunities": 0.7501899999999999,
+      "utility": 0.71042
+    },
+    {
+      "dataset": "office",
+      "method": "independent_dp",
+      "alpha": 0.01,
+      "tau": 0.003,
+      "upper": 0.007506018477089245,
+      "risk": 0.0048,
+      "completion": 0.312365,
+      "allow": 0.313565,
+      "calls": 1.66557,
+      "cost": 2.7763250000000004,
+      "source_count": 1.3835050000000002,
+      "opportunities": 0.7501899999999999,
+      "utility": 0.27072012500000003
+    },
+    {
+      "dataset": "office",
+      "method": "independent_dp",
+      "alpha": 0.05,
+      "tau": 0.03,
+      "upper": 0.04202835434069265,
+      "risk": 0.03525,
+      "completion": 0.7404199999999999,
+      "allow": 0.76246,
+      "calls": 1.0,
+      "cost": 2.0,
+      "source_count": 1.0,
+      "opportunities": 0.7501899999999999,
+      "utility": 0.71042
+    },
+    {
+      "dataset": "office",
+      "method": "source_mi",
+      "alpha": 0.01,
+      "tau": 0.005,
+      "upper": 0.0059608701068199705,
+      "risk": 0.00295,
+      "completion": 0.306195,
+      "allow": 0.30678999999999995,
+      "calls": 3.325515,
+      "cost": 5.340035,
+      "source_count": 2.50726,
+      "opportunities": 0.7501899999999999,
+      "utility": 0.22609447500000002
+    },
+    {
+      "dataset": "office",
+      "method": "source_mi",
+      "alpha": 0.05,
+      "tau": 0.04,
+      "upper": 0.04202835434069265,
+      "risk": 0.03525,
+      "completion": 0.7404199999999999,
+      "allow": 0.76246,
+      "calls": 1.0,
+      "cost": 2.0,
+      "source_count": 1.0,
+      "opportunities": 0.7501899999999999,
+      "utility": 0.71042
+    },
+    {
+      "dataset": "office",
+      "method": "myopic",
+      "alpha": 0.01,
+      "tau": 0.005,
+      "upper": 0.0059608701068199705,
+      "risk": 0.00295,
+      "completion": 0.306195,
+      "allow": 0.30678999999999995,
+      "calls": 3.325515,
+      "cost": 5.340035,
+      "source_count": 2.50726,
+      "opportunities": 0.7501899999999999,
+      "utility": 0.22609447500000002
+    },
+    {
+      "dataset": "office",
+      "method": "myopic",
+      "alpha": 0.05,
+      "tau": 0.04,
+      "upper": 0.04202835434069265,
+      "risk": 0.03525,
+      "completion": 0.7404199999999999,
+      "allow": 0.76246,
+      "calls": 1.0,
+      "cost": 2.0,
+      "source_count": 1.0,
+      "opportunities": 0.7501899999999999,
+      "utility": 0.71042
+    },
+    {
+      "dataset": "office",
+      "method": "static",
+      "alpha": 0.01,
+      "tau": 0.003,
+      "upper": 0.0059608701068199705,
+      "risk": 0.00295,
+      "completion": 0.306195,
+      "allow": 0.30678999999999995,
+      "calls": 3.2378199999999997,
+      "cost": 5.56871,
+      "source_count": 2.665445,
+      "opportunities": 0.7501899999999999,
+      "utility": 0.22266435
+    },
+    {
+      "dataset": "office",
+      "method": "static",
+      "alpha": 0.05,
+      "tau": 0.04,
+      "upper": 0.04202835434069265,
+      "risk": 0.03525,
+      "completion": 0.7404199999999999,
+      "allow": 0.76246,
+      "calls": 1.0,
+      "cost": 2.0,
+      "source_count": 1.0,
+      "opportunities": 0.7501899999999999,
+      "utility": 0.71042
+    },
+    {
+      "dataset": "office",
+      "method": "random",
+      "alpha": 0.01,
+      "tau": 0.0075,
+      "upper": 0.0081361407812432,
+      "risk": 0.00465,
+      "completion": 0.33061500000000005,
+      "allow": 0.332025,
+      "calls": 3.2724450000000003,
+      "cost": 5.6033349999999995,
+      "source_count": 2.665445,
+      "opportunities": 0.7501899999999999,
+      "utility": 0.246564975
+    },
+    {
+      "dataset": "office",
+      "method": "random",
+      "alpha": 0.05,
+      "tau": 0.04,
+      "upper": 0.04202835434069265,
+      "risk": 0.03525,
+      "completion": 0.7404199999999999,
+      "allow": 0.76246,
+      "calls": 1.0,
+      "cost": 2.0,
+      "source_count": 1.0,
+      "opportunities": 0.7501899999999999,
+      "utility": 0.71042
+    },
+    {
+      "dataset": "office",
+      "method": "budget_full",
+      "alpha": 0.01,
+      "tau": 0.005,
+      "upper": 0.0059608701068199705,
+      "risk": 0.00295,
+      "completion": 0.306195,
+      "allow": 0.30678999999999995,
+      "calls": 3.6676300000000004,
+      "cost": 5.99852,
+      "source_count": 2.665445,
+      "opportunities": 0.7501899999999999,
+      "utility": 0.2162172
+    },
+    {
+      "dataset": "office",
+      "method": "budget_full",
+      "alpha": 0.05,
+      "tau": 0.12,
+      "upper": 0.02283452453389175,
+      "risk": 0.0185,
+      "completion": 0.645875,
+      "allow": 0.653385,
+      "calls": 3.6676300000000004,
+      "cost": 5.99852,
+      "source_count": 2.665445,
+      "opportunities": 0.7501899999999999,
+      "utility": 0.5558972
+    },
+    {
+      "dataset": "room",
+      "method": "portfolio",
+      "alpha": 0.01,
+      "tau": 0.0002,
+      "upper": 0.006091774465440603,
+      "risk": 0.00375,
+      "completion": 0.3405349999999999,
+      "allow": 0.34305,
+      "calls": 1.568545,
+      "cost": 2.990575,
+      "source_count": 1.568545,
+      "opportunities": 0.719795,
+      "utility": 0.295676375
+    },
+    {
+      "dataset": "room",
+      "method": "portfolio",
+      "alpha": 0.05,
+      "tau": 0.0005,
+      "upper": 0.03830619412602499,
+      "risk": 0.03235,
+      "completion": 0.649705,
+      "allow": 0.6589550000000001,
+      "calls": 2.5009699999999997,
+      "cost": 3.2197249999999995,
+      "source_count": 1.718755,
+      "opportunities": 0.719795,
+      "utility": 0.6014091249999999
+    },
+    {
+      "dataset": "room",
+      "method": "source_dp",
+      "alpha": 0.01,
+      "tau": 0.0002,
+      "upper": 0.006091774465440603,
+      "risk": 0.00375,
+      "completion": 0.3405349999999999,
+      "allow": 0.34305,
+      "calls": 1.568545,
+      "cost": 2.990575,
+      "source_count": 1.568545,
+      "opportunities": 0.719795,
+      "utility": 0.295676375
+    },
+    {
+      "dataset": "room",
+      "method": "source_dp",
+      "alpha": 0.05,
+      "tau": 0.001,
+      "upper": 0.010357638914968307,
+      "risk": 0.00705,
+      "completion": 0.42553,
+      "allow": 0.428885,
+      "calls": 1.674525,
+      "cost": 3.2418050000000003,
+      "source_count": 1.6352550000000001,
+      "opportunities": 0.719795,
+      "utility": 0.37690292499999994
+    },
+    {
+      "dataset": "room",
+      "method": "independent_dp",
+      "alpha": 0.01,
+      "tau": 0.0001,
+      "upper": 0.0021035820457169533,
+      "risk": 0.0011,
+      "completion": 0.1644,
+      "allow": 0.16455,
+      "calls": 0.95824,
+      "cost": 1.65642,
+      "source_count": 0.77095,
+      "opportunities": 0.719795,
+      "utility": 0.1395537
+    },
+    {
+      "dataset": "room",
+      "method": "independent_dp",
+      "alpha": 0.05,
+      "tau": 0.0005,
+      "upper": 0.03830619412602499,
+      "risk": 0.03235,
+      "completion": 0.649705,
+      "allow": 0.6589550000000001,
+      "calls": 2.5009699999999997,
+      "cost": 3.2197249999999995,
+      "source_count": 1.718755,
+      "opportunities": 0.719795,
+      "utility": 0.6014091249999999
+    },
+    {
+      "dataset": "room",
+      "method": "source_mi",
+      "alpha": 0.01,
+      "tau": null,
+      "upper": 0.0,
+      "risk": 0.0,
+      "completion": 0.0,
+      "allow": 0.0,
+      "calls": 0.0,
+      "cost": 0.0,
+      "source_count": 0.0,
+      "opportunities": 0.719795,
+      "utility": 0.0
+    },
+    {
+      "dataset": "room",
+      "method": "source_mi",
+      "alpha": 0.05,
+      "tau": 0.001,
+      "upper": 0.010357638914968307,
+      "risk": 0.00705,
+      "completion": 0.40446000000000004,
+      "allow": 0.407815,
+      "calls": 2.8813050000000002,
+      "cost": 4.762404999999999,
+      "source_count": 2.306895,
+      "opportunities": 0.719795,
+      "utility": 0.333023925
+    },
+    {
+      "dataset": "room",
+      "method": "myopic",
+      "alpha": 0.01,
+      "tau": 0.0002,
+      "upper": 0.006091774465440603,
+      "risk": 0.00375,
+      "completion": 0.3405349999999999,
+      "allow": 0.34305,
+      "calls": 2.9258599999999997,
+      "cost": 4.85177,
+      "source_count": 2.3132900000000003,
+      "opportunities": 0.719795,
+      "utility": 0.26775845000000004
+    },
+    {
+      "dataset": "room",
+      "method": "myopic",
+      "alpha": 0.05,
+      "tau": 0.001,
+      "upper": 0.010357638914968307,
+      "risk": 0.00705,
+      "completion": 0.40446000000000004,
+      "allow": 0.407815,
+      "calls": 2.8813050000000002,
+      "cost": 4.762404999999999,
+      "source_count": 2.306895,
+      "opportunities": 0.719795,
+      "utility": 0.333023925
+    },
+    {
+      "dataset": "room",
+      "method": "static",
+      "alpha": 0.01,
+      "tau": null,
+      "upper": 0.0,
+      "risk": 0.0,
+      "completion": 0.0,
+      "allow": 0.0,
+      "calls": 0.0,
+      "cost": 0.0,
+      "source_count": 0.0,
+      "opportunities": 0.719795,
+      "utility": 0.0
+    },
+    {
+      "dataset": "room",
+      "method": "static",
+      "alpha": 0.05,
+      "tau": 0.003,
+      "upper": 0.04475413337727693,
+      "risk": 0.0387,
+      "completion": 0.6585050000000001,
+      "allow": 0.6712600000000001,
+      "calls": 2.897325,
+      "cost": 3.79465,
+      "source_count": 1.8128950000000001,
+      "opportunities": 0.719795,
+      "utility": 0.60158525
+    },
+    {
+      "dataset": "room",
+      "method": "random",
+      "alpha": 0.01,
+      "tau": 0.0005,
+      "upper": 0.0027472377785412133,
+      "risk": 0.00095,
+      "completion": 0.17688,
+      "allow": 0.177015,
+      "calls": 3.2751799999999998,
+      "cost": 5.61272,
+      "source_count": 2.6687700000000003,
+      "opportunities": 0.719795,
+      "utility": 0.0926892
+    },
+    {
+      "dataset": "room",
+      "method": "random",
+      "alpha": 0.05,
+      "tau": 0.005,
+      "upper": 0.0280116143519461,
+      "risk": 0.02315,
+      "completion": 0.5897950000000001,
+      "allow": 0.5939550000000001,
+      "calls": 2.8985199999999995,
+      "cost": 4.97651,
+      "source_count": 2.538995,
+      "opportunities": 0.719795,
+      "utility": 0.51514735
+    },
+    {
+      "dataset": "room",
+      "method": "budget_full",
+      "alpha": 0.01,
+      "tau": null,
+      "upper": 0.0,
+      "risk": 0.0,
+      "completion": 0.0,
+      "allow": 0.0,
+      "calls": 0.0,
+      "cost": 0.0,
+      "source_count": 0.0,
+      "opportunities": 0.719795,
+      "utility": 0.0
+    },
+    {
+      "dataset": "room",
+      "method": "budget_full",
+      "alpha": 0.05,
+      "tau": 0.003,
+      "upper": 0.04180990361206826,
+      "risk": 0.03595,
+      "completion": 0.65633,
+      "allow": 0.6662199999999999,
+      "calls": 3.6687700000000003,
+      "cost": 5.337540000000001,
+      "source_count": 2.0,
+      "opportunities": 0.719795,
+      "utility": 0.5762669
+    }
+  ],
+  "confirmatory": [
+    {
+      "dataset": "synthetic",
+      "method": "portfolio",
+      "risk": 0.004730000000000001,
+      "completion": 0.34174499999999997,
+      "allow": 0.34230900000000003,
+      "calls": 1.411485,
+      "cost": 2.570119,
+      "source_count": 1.3773139999999997,
+      "opportunities": 0.650679,
+      "utility": 0.3031932150000001,
+      "portfolio_utility_difference": 0.0,
+      "difference_ci95": [
+        0.0,
+        0.0
+      ],
+      "risk_exceedances": 0,
+      "source_selections": 17
+    },
+    {
+      "dataset": "synthetic",
+      "method": "source_dp",
+      "risk": 0.00455,
+      "completion": 0.316094,
+      "allow": 0.316637,
+      "calls": 1.274457,
+      "cost": 2.3195620000000003,
+      "source_count": 1.268189,
+      "opportunities": 0.650679,
+      "utility": 0.2813005700000001,
+      "portfolio_utility_difference": 0.021892645000000002,
+      "difference_ci95": [
+        -0.003131872498392165,
+        0.04691716249839217
+      ],
+      "risk_exceedances": 0,
+      "source_selections": 17
+    },
+    {
+      "dataset": "synthetic",
+      "method": "independent_dp",
+      "risk": 0.0014299999999999998,
+      "completion": 0.171132,
+      "allow": 0.171303,
+      "calls": 0.9157919999999999,
+      "cost": 1.6737650000000002,
+      "source_count": 0.7293709999999999,
+      "opportunities": 0.650679,
+      "utility": 0.146025525,
+      "portfolio_utility_difference": 0.15716769000000003,
+      "difference_ci95": [
+        0.12539732099117168,
+        0.18893805900882837
+      ],
+      "risk_exceedances": 0,
+      "source_selections": 17
+    },
+    {
+      "dataset": "synthetic",
+      "method": "source_mi",
+      "risk": 0.0041800000000000006,
+      "completion": 0.313697,
+      "allow": 0.314201,
+      "calls": 2.686101,
+      "cost": 4.391758,
+      "source_count": 2.0758799999999997,
+      "opportunities": 0.650679,
+      "utility": 0.24782063000000004,
+      "portfolio_utility_difference": 0.05537258500000001,
+      "difference_ci95": [
+        0.03697249715407991,
+        0.07377267284592011
+      ],
+      "risk_exceedances": 0,
+      "source_selections": 17
+    },
+    {
+      "dataset": "synthetic",
+      "method": "myopic",
+      "risk": 0.0041800000000000006,
+      "completion": 0.313697,
+      "allow": 0.314201,
+      "calls": 2.686101,
+      "cost": 4.391758,
+      "source_count": 2.0758799999999997,
+      "opportunities": 0.650679,
+      "utility": 0.24782063000000004,
+      "portfolio_utility_difference": 0.05537258500000001,
+      "difference_ci95": [
+        0.03697249715407991,
+        0.07377267284592011
+      ],
+      "risk_exceedances": 0,
+      "source_selections": 17
+    },
+    {
+      "dataset": "synthetic",
+      "method": "static",
+      "risk": 0.0,
+      "completion": 0.0,
+      "allow": 0.0,
+      "calls": 0.0,
+      "cost": 0.0,
+      "source_count": 0.0,
+      "opportunities": 0.650679,
+      "utility": 0.0,
+      "portfolio_utility_difference": 0.3031932150000001,
+      "difference_ci95": [
+        0.2714043413551544,
+        0.33498208864484585
+      ],
+      "risk_exceedances": 0,
+      "source_selections": 17
+    },
+    {
+      "dataset": "synthetic",
+      "method": "random",
+      "risk": 0.00163,
+      "completion": 0.15327400000000002,
+      "allow": 0.15346900000000002,
+      "calls": 3.2693239999999997,
+      "cost": 5.604216000000001,
+      "source_count": 2.6674460000000004,
+      "opportunities": 0.650679,
+      "utility": 0.06921076000000001,
+      "portfolio_utility_difference": 0.23398245500000003,
+      "difference_ci95": [
+        0.20218780863296704,
+        0.26577710136703303
+      ],
+      "risk_exceedances": 0,
+      "source_selections": 17
+    },
+    {
+      "dataset": "synthetic",
+      "method": "budget_full",
+      "risk": 0.0,
+      "completion": 0.0,
+      "allow": 0.0,
+      "calls": 0.0,
+      "cost": 0.0,
+      "source_count": 0.0,
+      "opportunities": 0.650679,
+      "utility": 0.0,
+      "portfolio_utility_difference": 0.3031932150000001,
+      "difference_ci95": [
+        0.2714043413551544,
+        0.33498208864484585
+      ],
+      "risk_exceedances": 0,
+      "source_selections": 17
+    },
+    {
+      "dataset": "office",
+      "method": "portfolio",
+      "risk": 0.00459,
+      "completion": 0.442605,
+      "allow": 0.444872,
+      "calls": 1.819847,
+      "cost": 2.7511419999999998,
+      "source_count": 1.557239,
+      "opportunities": 0.7609480000000001,
+      "utility": 0.40133787,
+      "portfolio_utility_difference": 0.0,
+      "difference_ci95": [
+        0.0,
+        0.0
+      ],
+      "risk_exceedances": 0,
+      "source_selections": 7
+    },
+    {
+      "dataset": "office",
+      "method": "source_dp",
+      "risk": 0.004690000000000001,
+      "completion": 0.43763500000000005,
+      "allow": 0.43993099999999996,
+      "calls": 1.843822,
+      "cost": 2.763437,
+      "source_count": 1.532793,
+      "opportunities": 0.7609480000000001,
+      "utility": 0.39618344499999997,
+      "portfolio_utility_difference": 0.0051544249999999955,
+      "difference_ci95": [
+        -0.0055421196048728374,
+        0.01585096960487283
+      ],
+      "risk_exceedances": 0,
+      "source_selections": 7
+    },
+    {
+      "dataset": "office",
+      "method": "independent_dp",
+      "risk": 0.00421,
+      "completion": 0.390323,
+      "allow": 0.39243799999999995,
+      "calls": 1.594831,
+      "cost": 2.446008,
+      "source_count": 1.421095,
+      "opportunities": 0.7609480000000001,
+      "utility": 0.3536328799999999,
+      "portfolio_utility_difference": 0.04770499000000002,
+      "difference_ci95": [
+        0.0036266938423367076,
+        0.09178328615766332
+      ],
+      "risk_exceedances": 0,
+      "source_selections": 7
+    },
+    {
+      "dataset": "office",
+      "method": "source_mi",
+      "risk": 0.00427,
+      "completion": 0.4247389999999999,
+      "allow": 0.42670399999999997,
+      "calls": 2.910523,
+      "cost": 4.647641,
+      "source_count": 2.293559,
+      "opportunities": 0.7609480000000001,
+      "utility": 0.35502438500000005,
+      "portfolio_utility_difference": 0.046313485,
+      "difference_ci95": [
+        0.0049025784978776535,
+        0.08772439150212236
+      ],
+      "risk_exceedances": 0,
+      "source_selections": 7
+    },
+    {
+      "dataset": "office",
+      "method": "myopic",
+      "risk": 0.00409,
+      "completion": 0.42592500000000005,
+      "allow": 0.427874,
+      "calls": 2.908598,
+      "cost": 4.601014000000001,
+      "source_count": 2.271208,
+      "opportunities": 0.7609480000000001,
+      "utility": 0.35690979000000006,
+      "portfolio_utility_difference": 0.04442808000000001,
+      "difference_ci95": [
+        0.004141092699770373,
+        0.08471506730022965
+      ],
+      "risk_exceedances": 0,
+      "source_selections": 7
+    },
+    {
+      "dataset": "office",
+      "method": "static",
+      "risk": 0.00408,
+      "completion": 0.39332399999999995,
+      "allow": 0.39515799999999995,
+      "calls": 2.930439,
+      "cost": 4.720429,
+      "source_count": 2.319995,
+      "opportunities": 0.7609480000000001,
+      "utility": 0.322517565,
+      "portfolio_utility_difference": 0.07882030500000001,
+      "difference_ci95": [
+        0.03610665677268111,
+        0.12153395322731891
+      ],
+      "risk_exceedances": 0,
+      "source_selections": 7
+    },
+    {
+      "dataset": "office",
+      "method": "random",
+      "risk": 0.004209999999999999,
+      "completion": 0.274394,
+      "allow": 0.27575,
+      "calls": 3.2504429999999993,
+      "cost": 5.4647689999999995,
+      "source_count": 2.532163,
+      "opportunities": 0.7609480000000001,
+      "utility": 0.192422465,
+      "portfolio_utility_difference": 0.20891540500000003,
+      "difference_ci95": [
+        0.13532190801562965,
+        0.2825089019843704
+      ],
+      "risk_exceedances": 0,
+      "source_selections": 7
+    },
+    {
+      "dataset": "office",
+      "method": "budget_full",
+      "risk": 0.00424,
+      "completion": 0.40565100000000004,
+      "allow": 0.40744400000000003,
+      "calls": 3.566553999999999,
+      "cost": 5.61525,
+      "source_count": 2.4493480000000005,
+      "opportunities": 0.7609480000000001,
+      "utility": 0.32142225,
+      "portfolio_utility_difference": 0.07991561999999999,
+      "difference_ci95": [
+        0.03843115943777667,
+        0.12140008056222332
+      ],
+      "risk_exceedances": 0,
+      "source_selections": 7
+    },
+    {
+      "dataset": "room",
+      "method": "portfolio",
+      "risk": 0.0036999999999999997,
+      "completion": 0.4736179999999998,
+      "allow": 0.474944,
+      "calls": 1.7411939999999997,
+      "cost": 2.9123580000000002,
+      "source_count": 1.4524219999999999,
+      "opportunities": 0.806656,
+      "utility": 0.42993263000000004,
+      "portfolio_utility_difference": 0.0,
+      "difference_ci95": [
+        0.0,
+        0.0
+      ],
+      "risk_exceedances": 0,
+      "source_selections": 11
+    },
+    {
+      "dataset": "room",
+      "method": "source_dp",
+      "risk": 0.0032900000000000004,
+      "completion": 0.41992299999999994,
+      "allow": 0.421031,
+      "calls": 1.480631,
+      "cost": 2.628922,
+      "source_count": 1.369259,
+      "opportunities": 0.806656,
+      "utility": 0.38048917000000004,
+      "portfolio_utility_difference": 0.049443459999999995,
+      "difference_ci95": [
+        0.008560167194061497,
+        0.09032675280593849
+      ],
+      "risk_exceedances": 0,
+      "source_selections": 11
+    },
+    {
+      "dataset": "room",
+      "method": "independent_dp",
+      "risk": 0.00293,
+      "completion": 0.378943,
+      "allow": 0.379949,
+      "calls": 1.5972260000000003,
+      "cost": 2.4571970000000003,
+      "source_count": 1.132314,
+      "opportunities": 0.806656,
+      "utility": 0.34208504500000003,
+      "portfolio_utility_difference": 0.087847585,
+      "difference_ci95": [
+        0.026093301202842367,
+        0.14960186879715764
+      ],
+      "risk_exceedances": 0,
+      "source_selections": 11
+    },
+    {
+      "dataset": "room",
+      "method": "source_mi",
+      "risk": 0.0024,
+      "completion": 0.318634,
+      "allow": 0.319378,
+      "calls": 2.29689,
+      "cost": 3.617809,
+      "source_count": 1.657565,
+      "opportunities": 0.806656,
+      "utility": 0.264366865,
+      "portfolio_utility_difference": 0.165565765,
+      "difference_ci95": [
+        0.10411101777500953,
+        0.22702051222499048
+      ],
+      "risk_exceedances": 0,
+      "source_selections": 11
+    },
+    {
+      "dataset": "room",
+      "method": "myopic",
+      "risk": 0.0021800000000000005,
+      "completion": 0.361394,
+      "allow": 0.362319,
+      "calls": 2.529737,
+      "cost": 3.9319720000000005,
+      "source_count": 1.8252470000000003,
+      "opportunities": 0.806656,
+      "utility": 0.30241441999999996,
+      "portfolio_utility_difference": 0.12751821,
+      "difference_ci95": [
+        0.06981060727531138,
+        0.1852258127246886
+      ],
+      "risk_exceedances": 0,
+      "source_selections": 11
+    },
+    {
+      "dataset": "room",
+      "method": "static",
+      "risk": 0.0018499999999999999,
+      "completion": 0.28932199999999997,
+      "allow": 0.290158,
+      "calls": 2.113086,
+      "cost": 3.0453370000000004,
+      "source_count": 1.292336,
+      "opportunities": 0.806656,
+      "utility": 0.24364194500000003,
+      "portfolio_utility_difference": 0.186290685,
+      "difference_ci95": [
+        0.11313720757167986,
+        0.25944416242832014
+      ],
+      "risk_exceedances": 0,
+      "source_selections": 11
+    },
+    {
+      "dataset": "room",
+      "method": "random",
+      "risk": 0.00296,
+      "completion": 0.23211999999999997,
+      "allow": 0.23261600000000002,
+      "calls": 2.73574,
+      "cost": 4.664912000000001,
+      "source_count": 2.239586,
+      "opportunities": 0.806656,
+      "utility": 0.16214632,
+      "portfolio_utility_difference": 0.26778630999999997,
+      "difference_ci95": [
+        0.17192572862565314,
+        0.3636468913743468
+      ],
+      "risk_exceedances": 0,
+      "source_selections": 11
+    },
+    {
+      "dataset": "room",
+      "method": "budget_full",
+      "risk": 0.00206,
+      "completion": 0.29790799999999995,
+      "allow": 0.29876,
+      "calls": 2.3830560000000003,
+      "cost": 3.5665,
+      "source_count": 1.400388,
+      "opportunities": 0.806656,
+      "utility": 0.2444105,
+      "portfolio_utility_difference": 0.18552213,
+      "difference_ci95": [
+        0.11290473382537589,
+        0.2581395261746241
+      ],
+      "risk_exceedances": 0,
+      "source_selections": 11
+    }
+  ],
+  "paired_main": [
+    {
+      "dataset": "synthetic",
+      "comparator": "independent_dp",
+      "metric": "utility",
+      "mean_difference": 0.18225965078247244,
+      "ci95": [
+        0.18066414817305465,
+        0.18385515339189024
+      ]
+    },
+    {
+      "dataset": "synthetic",
+      "comparator": "independent_dp",
+      "metric": "cost",
+      "mean_difference": 1.0176899919562041,
+      "ci95": [
+        1.0059461652145698,
+        1.0294338186978385
+      ]
+    },
+    {
+      "dataset": "synthetic",
+      "comparator": "independent_dp",
+      "metric": "completion",
+      "mean_difference": 0.1975250029500574,
+      "ci95": [
+        0.19577460266433902,
+        0.19927540323577578
+      ]
+    },
+    {
+      "dataset": "synthetic",
+      "comparator": "independent_dp",
+      "metric": "risk",
+      "mean_difference": 0.0036,
+      "ci95": [
+        0.002769919826248848,
+        0.004430080173751152
+      ]
+    },
+    {
+      "dataset": "synthetic",
+      "comparator": "source_mi",
+      "metric": "utility",
+      "mean_difference": 0.03718342429101467,
+      "ci95": [
+        0.037048231550992634,
+        0.037318617031036706
+      ]
+    },
+    {
+      "dataset": "synthetic",
+      "comparator": "source_mi",
+      "metric": "cost",
+      "mean_difference": -2.4788950058177113,
+      "ci95": [
+        -2.487907854765804,
+        -2.4698821568696188
+      ]
+    },
+    {
+      "dataset": "synthetic",
+      "comparator": "source_mi",
+      "metric": "completion",
+      "mean_difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "dataset": "synthetic",
+      "comparator": "source_mi",
+      "metric": "risk",
+      "mean_difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "dataset": "synthetic",
+      "comparator": "myopic",
+      "metric": "utility",
+      "mean_difference": 0.03718342429101467,
+      "ci95": [
+        0.037048231550992634,
+        0.037318617031036706
+      ]
+    },
+    {
+      "dataset": "synthetic",
+      "comparator": "myopic",
+      "metric": "cost",
+      "mean_difference": -2.4788950058177113,
+      "ci95": [
+        -2.487907854765804,
+        -2.4698821568696188
+      ]
+    },
+    {
+      "dataset": "synthetic",
+      "comparator": "myopic",
+      "metric": "completion",
+      "mean_difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "dataset": "synthetic",
+      "comparator": "myopic",
+      "metric": "risk",
+      "mean_difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "dataset": "office",
+      "comparator": "independent_dp",
+      "metric": "utility",
+      "mean_difference": 0.013292352205037605,
+      "ci95": [
+        0.011921379823005736,
+        0.014663324587069475
+      ]
+    },
+    {
+      "dataset": "office",
+      "comparator": "independent_dp",
+      "metric": "cost",
+      "mean_difference": 0.08651000161729754,
+      "ci95": [
+        0.07704483169769688,
+        0.09597517153689819
+      ]
+    },
+    {
+      "dataset": "office",
+      "comparator": "independent_dp",
+      "metric": "completion",
+      "mean_difference": 0.014590000275149942,
+      "ci95": [
+        0.01319835635765212,
+        0.015981644192647762
+      ]
+    },
+    {
+      "dataset": "office",
+      "comparator": "independent_dp",
+      "metric": "risk",
+      "mean_difference": -0.0004,
+      "ci95": [
+        -0.0011961563668325603,
+        0.0003961563668325602
+      ]
+    },
+    {
+      "dataset": "office",
+      "comparator": "source_mi",
+      "metric": "utility",
+      "mean_difference": 0.057917993974278215,
+      "ci95": [
+        0.05666320548722461,
+        0.05917278246133182
+      ]
+    },
+    {
+      "dataset": "office",
+      "comparator": "source_mi",
+      "metric": "cost",
+      "mean_difference": -2.477199995771423,
+      "ci95": [
+        -2.495265493018791,
+        -2.4591344985240546
+      ]
+    },
+    {
+      "dataset": "office",
+      "comparator": "source_mi",
+      "metric": "completion",
+      "mean_difference": 0.02076000038087368,
+      "ci95": [
+        0.019562843378131772,
+        0.02195715738361559
+      ]
+    },
+    {
+      "dataset": "office",
+      "comparator": "source_mi",
+      "metric": "risk",
+      "mean_difference": 0.00145,
+      "ci95": [
+        0.000922623419079966,
+        0.0019773765809200337
+      ]
+    },
+    {
+      "dataset": "office",
+      "comparator": "myopic",
+      "metric": "utility",
+      "mean_difference": 0.057917993974278215,
+      "ci95": [
+        0.05666320548722461,
+        0.05917278246133182
+      ]
+    },
+    {
+      "dataset": "office",
+      "comparator": "myopic",
+      "metric": "cost",
+      "mean_difference": -2.477199995771423,
+      "ci95": [
+        -2.495265493018791,
+        -2.4591344985240546
+      ]
+    },
+    {
+      "dataset": "office",
+      "comparator": "myopic",
+      "metric": "completion",
+      "mean_difference": 0.02076000038087368,
+      "ci95": [
+        0.019562843378131772,
+        0.02195715738361559
+      ]
+    },
+    {
+      "dataset": "office",
+      "comparator": "myopic",
+      "metric": "risk",
+      "mean_difference": 0.00145,
+      "ci95": [
+        0.000922623419079966,
+        0.0019773765809200337
+      ]
+    },
+    {
+      "dataset": "room",
+      "comparator": "independent_dp",
+      "metric": "utility",
+      "mean_difference": 0.1561226770540816,
+      "ci95": [
+        0.15343970973862395,
+        0.15880564436953923
+      ]
+    },
+    {
+      "dataset": "room",
+      "comparator": "independent_dp",
+      "metric": "cost",
+      "mean_difference": 1.3341550116885454,
+      "ci95": [
+        1.3207699795942727,
+        1.3475400437828182
+      ]
+    },
+    {
+      "dataset": "room",
+      "comparator": "independent_dp",
+      "metric": "completion",
+      "mean_difference": 0.1761349986322224,
+      "ci95": [
+        0.17331334620173822,
+        0.17895665106270658
+      ]
+    },
+    {
+      "dataset": "room",
+      "comparator": "independent_dp",
+      "metric": "risk",
+      "mean_difference": 0.00265,
+      "ci95": [
+        0.001937477366938333,
+        0.003362522633061667
+      ]
+    },
+    {
+      "dataset": "room",
+      "comparator": "source_mi",
+      "metric": "utility",
+      "mean_difference": 0.2956763783716364,
+      "ci95": [
+        0.2910859935055278,
+        0.30026676323774504
+      ]
+    },
+    {
+      "dataset": "room",
+      "comparator": "source_mi",
+      "metric": "cost",
+      "mean_difference": 2.9905749923624096,
+      "ci95": [
+        2.9695230182280605,
+        3.0116269664967588
+      ]
+    },
+    {
+      "dataset": "room",
+      "comparator": "source_mi",
+      "metric": "completion",
+      "mean_difference": 0.34053500174432993,
+      "ci95": [
+        0.3357030055949743,
+        0.3453669978936856
+      ]
+    },
+    {
+      "dataset": "room",
+      "comparator": "source_mi",
+      "metric": "risk",
+      "mean_difference": 0.00375,
+      "ci95": [
+        0.0029028667420424124,
+        0.004597133257957587
+      ]
+    },
+    {
+      "dataset": "room",
+      "comparator": "myopic",
+      "metric": "utility",
+      "mean_difference": 0.02791791994237574,
+      "ci95": [
+        0.027723146310110018,
+        0.02811269357464146
+      ]
+    },
+    {
+      "dataset": "room",
+      "comparator": "myopic",
+      "metric": "cost",
+      "mean_difference": -1.8611950037799776,
+      "ci95": [
+        -1.8741799080900732,
+        -1.848210099469882
+      ]
+    },
+    {
+      "dataset": "room",
+      "comparator": "myopic",
+      "metric": "completion",
+      "mean_difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "dataset": "room",
+      "comparator": "myopic",
+      "metric": "risk",
+      "mean_difference": 0.0,
+      "ci95": [
+        0.0,
+        0.0
+      ]
+    }
+  ]
+}

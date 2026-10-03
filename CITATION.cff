@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "Please cite this software when using the implementation or experimental results."
+title: "Risk-Calibrated Sensing for IoT Agents"
+type: software
+version: 1.0.0
+date-released: 2026-10-03
+license: MIT
+authors:
+  - family-names: Yavas
+    given-names: Cemil Emre
+    affiliation: "School of Computing, Georgia Southern University"
+  - family-names: Chen
+    given-names: Lei
+    affiliation: "School of Computing, Georgia Southern University"
+  - family-names: Zhang
+    given-names: Yue
+    affiliation: "Department of Electrical and Computer Engineering, Georgia Southern University"
+abstract: "Reproducible finite-budget sensor-query planning, episode-level risk calibration, and model selection under injected shared-source failures."
+keywords:
+  - active sensing
+  - Internet of Things
+  - risk calibration
+  - correlated failures
+  - edge agents

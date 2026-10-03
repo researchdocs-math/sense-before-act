@@ -1,0 +1,77 @@
+{
+  "utc": "2026-10-03T16:54:20Z",
+  "python": "3.12.1 (v3.12.1:2305ca5144, Dec  7 2023, 17:23:38) [Clang 13.0.0 (clang-1300.0.29.30)]",
+  "platform": "macOS-14.8.1-arm64-arm-64bit",
+  "sha256": {
+    "src/benchmark.py": "9a2439c1b436c6a206658f1f413e5028afbabb91f44725b2c512d73b23fe94bc",
+    "src/run_experiments.py": "077b27cbf27ecefdd0d352a8fc0dea6bd1411a5b894636a24404d9c157ce0995",
+    "configs/main.json": "3d36e2d0cc14c27f9e9a0e6ce51d0941268d3f518bdd0ce2c579856b2b447056"
+  },
+  "config": {
+    "datasets": [
+      "synthetic",
+      "office",
+      "room"
+    ],
+    "methods": [
+      "source_dp",
+      "independent_dp",
+      "source_mi",
+      "myopic",
+      "static",
+      "random",
+      "budget_full"
+    ],
+    "thresholds": [
+      0.0001,
+      0.0002,
+      0.0005,
+      0.001,
+      0.002,
+      0.003,
+      0.005,
+      0.0075,
+      0.01,
+      0.0125,
+      0.015,
+      0.02,
+      0.03,
+      0.04,
+      0.06,
+      0.08,
+      0.1,
+      0.12,
+      0.16,
+      0.2
+    ],
+    "alphas": [
+      0.01,
+      0.05
+    ],
+    "delta": 0.05,
+    "fault_probability": 0.08,
+    "episode_length": 10,
+    "calibration_episodes": 10000,
+    "test_episodes": 20000,
+    "calibration_seed": 410001,
+    "test_seed": 810001,
+    "cost_price": 0.015,
+    "budgets": [
+      4,
+      6,
+      8
+    ],
+    "stress_faults": [
+      0.0,
+      0.04,
+      0.08,
+      0.16,
+      0.24
+    ],
+    "stress_episodes": 10000,
+    "stress_seed": 1210001,
+    "partition_seed": 20271003,
+    "block_length": 100,
+    "gap_length": 20
+  }
+}
